@@ -9,9 +9,9 @@ https://www.linkedin.com/posts/omar-aloweidi-06201424b_volleyballanalytics-sport
 ## ✨ Features (as of December 2025)
 | Action                  | Detected Live? | Details                              |
 |-------------------------|----------------|--------------------------------------|
-| Serve type & zone       | Yes            | Jump/float, zones 1-9                |
+|Action Detection         | Yes            | Serve/Reception OverHead             |
 | Set tempo               | Yes            | Tempo 1 / High ball        |
-| Ball detection           | Yes            |Capture Ball In Video        |
+| Ball detection          | Yes            |Capture Ball In Video        |
 
 ## 🚀 Quick Start (Tested on Windows/Linux/Mac)
 
