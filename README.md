@@ -3,8 +3,8 @@
 Lightweight, real-time volleyball analytics system that runs on **one regular camera** (phone, webcam, or broadcast feed).  
 No multi-camera setup · No external sensors · No Hawk-Eye · Affordable for youth clubs, schools, and developing federations.
 
-Live demo (recorded on VNL footage):  
-https://www.linkedin.com/posts/omar-aloweidi-06201424b_volleyballanalytics-sportsai-performanceanalyst-activity-7400956213649166336-uw8i
+Live demo:  
+https://www.linkedin.com/posts/omar-aloweidi-06201424b_volleyballanalytics-sportsai-performanceanalyst-ugcPost-7400956213649166336-uw8i
 
 ## ✨ Features (as of December 2025)
 | Action                  | Detected Live? | Details                              |
